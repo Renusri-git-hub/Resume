@@ -1,0 +1,20 @@
+*{
+    background-color:rgb(71, 89, 135);
+    color: white;
+}
+#nav{
+    background-color: rgb(255,255,255,1);
+    height: 50px;
+}
+#table{
+    border-color: white;
+}
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    letter-spacing: 0.08px;
+}
+.subheading{
+    background-color: rgb(61, 79, 143);
+    font-size: x-large;
+}
